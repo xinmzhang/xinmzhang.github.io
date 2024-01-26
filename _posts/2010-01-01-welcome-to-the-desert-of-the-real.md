@@ -7,9 +7,9 @@ description: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua.
 image: >-
-  https://asset.cloudinary.com/dkogxn1ty/5b023237e26e8cb287676d4605e98a44
+  https://res.cloudinary.com/dkogxn1ty/image/upload/v1706268367/rss/WechatIMG42-min_egdsrv.jpg
 optimized_image: >-
-  https://asset.cloudinary.com/dkogxn1ty/5b023237e26e8cb287676d4605e98a44
+  https://res.cloudinary.com/dkogxn1ty/image/upload/v1706268367/rss/WechatIMG42-min_egdsrv.jpg
 category: blog
 tags:
   - welcome
