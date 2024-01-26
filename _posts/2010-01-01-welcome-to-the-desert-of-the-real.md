@@ -1,5 +1,5 @@
 ---
-date: 2019-05-16 23:48:05
+date:
 layout: post
 title: Welcome to Logos
 subtitle: 'Sustainable jewelry sparks the real virtue of love'
