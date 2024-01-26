@@ -1,8 +1,8 @@
 ---
 date: 2019-05-16 23:48:05
 layout: post
-title: Welcome to the desert of the real
-subtitle: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'
+title: Welcome to Logos
+subtitle: 'Sustainable jewelry sparks the real virtue of love'
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua.
